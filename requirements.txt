@@ -9,7 +9,7 @@ concepts==0.7.12
 curses==2.2
 cycler==0.10.0
 dask==0.15.2
-distributed==1.18.3
+distributed==2021.10.0
 Django==2.0.3
 django-ranged-response==0.2.0
 django-registration-redux==1.4
